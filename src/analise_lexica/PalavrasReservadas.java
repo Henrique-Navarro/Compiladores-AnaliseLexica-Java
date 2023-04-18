@@ -1,0 +1,39 @@
+package analise_lexica;
+
+public enum PalavrasReservadas {
+	// PALAVRAS RESERVADAS
+	PROGRAMA, 
+	INICIO, 
+	FIMPROGRAMA, 
+	LEIA, 
+	ESCREVA, 
+	FUNCAO,
+	
+	// CONDICAO
+	SE, 
+	ENTAO, 
+	SENAO, 
+	FIMSE, 
+	
+	// REPETICAO
+	ENQUANTO, 
+	FACA, 
+	FIMENQUANTO,
+
+	// CONSTANTES
+	V, 
+	F,
+
+	// TIPOS
+	INTEIRO, 
+	LOGICO,
+	CARACTER,
+	VETOR,
+	VAZIO,
+
+	// OPERADORES
+	DIV, 
+	E, 
+	OU, 
+	NAO;
+}

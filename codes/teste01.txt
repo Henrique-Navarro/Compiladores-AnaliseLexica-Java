@@ -1,0 +1,38 @@
+'A'
+caracter
+inteiro
+"teste"
+#comentario01
+//comentario02
+/**comentario03**/
+/*
+*
+*comentario04
+*
+*/programa inicio fimprograma leia escreva
+se entao senao fimse e
+enquanto faca fimenquanto 
+V F (){}[]
+;  ;;
+inteiro logico
+div e ou nao dive ounao
+'a''b' 'c'
+++ -- **
+A1 A2 A3
+123 456 789
+1A 22BB 33BBB 44+
+< <- > == <
+123abc
+-+*\&|:.,_?@$!&
+dive ounao
+'a''b' 'c'
+++ -- **
+A1 A2 A3
+123 456 789
+2B2BB2BBAI 333BBB 44+
+< <- > == <
+123abc
+-+*\&|:.,_?@$!&
+*fimprograma+
+funcao inteiro
+funcao vazio vetor array
